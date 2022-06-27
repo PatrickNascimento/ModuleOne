@@ -1,6 +1,7 @@
 {
   "name": "moduleone01",
   "version": "0.0.1",
+  "main": "App.ts",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
