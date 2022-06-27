@@ -7,7 +7,7 @@ import { Constants } from 'expo';
 // or any pure javascript modules available in npm
 import { Card } from 'react-native-paper';
 
-const moduleOne = () => {
+const ModuleOne = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.paragraph}>
@@ -18,7 +18,7 @@ const moduleOne = () => {
   );
 };
 
-export default moduleOne;
+export default ModuleOne;
 
 const styles = StyleSheet.create({
   container: {
