@@ -11,7 +11,7 @@ const ModuleOne = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.paragraph}>
-        Modulo MicroAPP Carregado com sucesso!
+        Modulo MicroAPP Carregado com sucesso!:::|||
       </Text>
     
     </View>
